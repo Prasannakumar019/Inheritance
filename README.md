@@ -58,3 +58,4 @@ namespace abc
 
 
 ## Result
+Thus a C# program to print some messages using hierarchical inheritance has implemented successfully
